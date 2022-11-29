@@ -31,7 +31,7 @@ async def repo(_, message: Message):
                     ),
                     InlineKeyboardButton(
                         "sᴏᴜʀᴄᴇ",
-                        url="https://github.com/TheAnonymous2005/AellyXDroid",
+                        url="https://github.com/AellyOfficial/AellyXDroid",
                     ),
                 ]
             ]

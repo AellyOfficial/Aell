@@ -5,21 +5,21 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/TheAnonymous2005/AellyXDroid/blob/master/AellyXDroid/resources/fglitch.gif">
+  <img src="https://github.com/AellyOfficial/AellyXDroid/blob/master/AellyXDroid/resources/fglitch.gif">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/TheAnonymous2005/AellyXDroid/stargazers"><img src="https://img.shields.io/github/stars/TheAnonymous2005/AellyXDroid?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TheAnonymous2005/AellyXDroid/network/members"> <img src="https://img.shields.io/github/forks/TheAnonymous2005/AellyXDroid?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/AellyXDroid/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/AellyOfficial/AellyXDroid/stargazers"><img src="https://img.shields.io/github/stars/AellyOfficial/AellyXDroid?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/AellyOfficial/AellyXDroid/network/members"> <img src="https://img.shields.io/github/forks/AellyOfficial/AellyXDroid?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AellyOfficial/AellyXDroid/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/AellyXDroid"> <img src="https://img.shields.io/github/repo-size/TheAnonymous2005/AellyXDroid?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/AellyXDroid/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/TheAnonymous2005/AellyXDroid?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AellyOfficial/AellyXDroid"> <img src="https://img.shields.io/github/repo-size/AellyOfficial/AellyXDroid?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/AellyOfficial/AellyXDroid/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AellyOfficial/AellyXDroid?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -57,11 +57,11 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/TheAnonymous2005/AellyXDroid) </b>
+- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AellyOfficial)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/AellyOfficial/AellyXDroid) </b>
 - <b>[ᴩᴀᴜʟ ʟᴀʀsᴇɴ](https://github.com/PaulSonOfLars)  ➻  [ᴛɢ ʙᴏᴛ](https://github.com/PaulSonOfLars/tgbot) </b>
 - <b>[ᴀɴɪᴍᴇ ᴋᴀɪᴢᴏᴋᴜ](https://github.com/AnimeKaizoku)  ➻  [sᴀɪᴛᴀᴍᴀ ʀᴏʙᴏᴛ](https://github.com/AnimeKaizoku/SaitamaRobot) </b>
 - <b>[ʜᴀᴍᴋᴇʀ ᴄᴀᴛ](https://github.com/TheHamkerCat)  ➻  [ᴡɪʟʟɪᴀᴍ ʙᴜᴛᴄʜᴇʀ](https://github.com/TheHamkerCat/WilliamButcherBot) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/TheAnonymous2005/AellyXDroid/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AellyOfficial/AellyXDroid/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━

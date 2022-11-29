@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/AellyXDroid
-RUN git clone https://github.com/TheAnonymous2005/AellyXDroid /root/AellyXDroid
+RUN git clone https://github.com/AellyOfficial/AellyXDroid /root/AellyXDroid
 WORKDIR /root/AellyXDroid
 
 #Copy config file to /root/AellyXDroid/AellyXDroid
